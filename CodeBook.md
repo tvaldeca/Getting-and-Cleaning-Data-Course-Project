@@ -1,4 +1,4 @@
-1.activity: Activity performed - WALKING average, WALKING_UPSTAIRS average, WALKING_DOWNSTAIRS average, SITTING average, STANDING average, or LAYING
+1.activity: Activity performed - WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, or LAYING
 2.subjectnum: number 1 through 30 for the volunteer for participated in the study
 3.t-BodyAccmean-X: time domain signal body acceleration mean, X axial direction
 4.t-BodyAccmean-Y: time domain signal body acceleration mean, Y axial direction
